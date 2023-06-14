@@ -4,4 +4,9 @@ public class LoginTest {
 
 	//Login
 	
+	public void aa()
+	{
+		
+	}
+	
 }
