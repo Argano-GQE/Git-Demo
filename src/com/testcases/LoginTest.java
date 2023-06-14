@@ -8,5 +8,10 @@ public class LoginTest {
 	{
 		
 	}
+
+	public void bb()
+	{
+		
+	}
 	
 }
